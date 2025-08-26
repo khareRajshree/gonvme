@@ -20,8 +20,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dell/gonvme/internal/logger"
-	"github.com/dell/gonvme/internal/tracer"
+	"github.com/khareRajshree/gonvme/internal/logger"
+	"github.com/khareRajshree/gonvme/internal/tracer"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -21,8 +21,8 @@ package gonvme
 import (
 	"time"
 
-	"github.com/dell/gonvme/internal/logger"
-	"github.com/dell/gonvme/internal/tracer"
+	"github.com/khareRajshree/gonvme/internal/logger"
+	"github.com/khareRajshree/gonvme/internal/tracer"
 )
 
 // Logger - Placeholder for logger
