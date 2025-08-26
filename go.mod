@@ -1,4 +1,4 @@
-module github.com/dell/gonvme
+module github.com/khareRajshree/gonvme
 
 go 1.24
 
